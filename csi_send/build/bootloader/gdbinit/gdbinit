@@ -1,0 +1,2 @@
+source C:/Software/esp32c5/csi_send/build/bootloader/gdbinit/symbols
+source C:/Software/esp32c5/csi_send/build/bootloader/gdbinit/connect
